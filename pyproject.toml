@@ -42,6 +42,7 @@ Homepage = "https://github.com/Flamehaven/CRoM-Context-Rot-Mitigation--Efficient
 [project.scripts]
 "crom-demo" = "crom_efficientllm.demo:main"
 "crom-bench" = "crom_efficientllm.cli:main"
+"cli-bluprinter" = "crom_efficientllm.bluprinter:main"
 
 [tool.setuptools]
 package-dir = {"" = "src"}
