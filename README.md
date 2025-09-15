@@ -64,7 +64,19 @@ pip install -e .[dev,plugins]
 
 ## Quickstart
 
-### Demo
+### 🚀 Interactive Demo
+
+Try CRoM live in your browser without any installation:
+
+**[🎯 Try CRoM Demo on Hugging Face Spaces](https://huggingface.co/spaces/Flamehaven/crom-demo)**
+
+The interactive demo lets you:
+- Experiment with budget packing algorithms
+- Visualize context drift detection
+- See real-time performance metrics
+- Adjust token budgets and see immediate results
+
+### Local Demo
 
 Run a simple, self-contained demonstration of the core components:
 
