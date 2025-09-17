@@ -29,7 +29,7 @@ tags:
     <img alt="Release" src="https://img.shields.io/github/v/release/Flamehaven/CRoM-Context-Rot-Mitigation--EfficientLLM?display_name=tag" />
   </a>
   <a href="CHANGELOG.md">
-    <img alt="Versioning" src="https://img.shields.io/badge/semver-0.2.x-lightgrey" />
+    <img alt="Versioning" src="https://img.shields.io/badge/semver-1.0.2-green" />
   </a>
   <a href="https://github.com/Flamehaven/CRoM-Context-Rot-Mitigation--EfficientLLM/releases/latest">
     <img alt="Wheel" src="https://img.shields.io/badge/wheel-available-success" />

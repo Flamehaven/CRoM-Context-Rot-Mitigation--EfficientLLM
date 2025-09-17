@@ -52,7 +52,8 @@ class SafeCrossEncoderManager:
             logging.error(f"  └─ Error: {str(e)}")
     
     def get_status_for_response(self) -> str:
-        """API 응답용 상태 문자열"""        return self.status
+        """API 응답용 상태 문자열"""
+        return self.status
     
     def rerank(self, query: str, documents: List[str]) -> List[float]:
         """안전한 리랭킹 with 상태 로깅"""
